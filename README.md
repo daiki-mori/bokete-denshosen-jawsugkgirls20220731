@@ -72,6 +72,9 @@ Amazon SageMaker Studioを起動している間に、「5. Amazon SageMaker Stud
     - 「notebook」フォルダをダブルクリック
     - 「keras_baseline」フォルダをダブルクリック
     - 「bokete_keras_on_sagemaker.ipynb」ファイルをダブルクリック
+- 開いたJupyterNotebookの上部に「○」の左側をクリックしてください
+    - 「Set up notebook environment」ダイアログが表示されます
+    - Imageを「TensolFlow 2.3 Python 3.7 CPU Optimized」を選択して、「Select」ボタンをクリック
 
 ## 9. 実行
 後は実行していくだけになります。<br>
